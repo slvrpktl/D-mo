@@ -1,4 +1,6 @@
 
 public class Demo {
-	 String helloWorld2;
+
+String helloWorld2;
+
 }
