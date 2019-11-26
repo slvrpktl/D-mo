@@ -1,4 +1,6 @@
 
 public class Demo {
-  // Texte 1
+
+
+	int i;
 }
